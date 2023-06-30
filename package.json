@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "web-development-assignment-zluri",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Web development Assignment for Zluri",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -15,7 +15,8 @@
     "gatsby": "^5.0.1",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^6.0.1"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
