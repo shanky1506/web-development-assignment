@@ -15,7 +15,7 @@ const Feedback = () => {
 
             <FeedbackDiv>
                 <p>
-                    This is a trial fork
+                    This is a trial fork from a branch create pr
                 </p>
             </FeedbackDiv>
             
