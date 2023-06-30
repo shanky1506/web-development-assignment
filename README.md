@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
 <a href="https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme" target="_blank">
@@ -53,6 +52,3 @@ Thanks a lot for using this starter! 💪
 <a href="https://www.buymeacoffee.com/kmuenster" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 Konstantin Münster – [konstantin.digital](https://konstantin.digital)
-=======
-# web-development-assignment
->>>>>>> ea6b655d836f492c9e09e7ff6dc7a0c8ab751341
